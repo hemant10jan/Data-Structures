@@ -16,6 +16,10 @@ class Main{
             p = p * base1;
         }
 
+        // Maine aise kiya h
+        // But Maybe it will not work bcoz number has meaning with respect to its decimal equivalent
+        // So first convert base1 to decimal then decimal to base2
+
         System.out.println(res);
     }
 }
